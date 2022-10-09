@@ -2,7 +2,7 @@
 
 - Auto Clicker for Minecraft
 
--- **Compatibility**: *LunarClient, Minecraft Launcher, TLauncher... All Launchers*
+-- **Compatibility**: *LunarClient*
 
 - Cheap Options:
 

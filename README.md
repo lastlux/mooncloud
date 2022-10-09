@@ -34,3 +34,6 @@
 
 -- If you can't open loader make sure have it installed: https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170
  
+ - Support / Discord
+
+-- Discord: https://discord.gg/featureswin/

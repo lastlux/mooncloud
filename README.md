@@ -1,6 +1,6 @@
 # mooncloud
 
-- Auto Clicker for Minecraft
+- Ghost Client for Minecraft
 
 -- **Compatibility**: *LunarClient*
 

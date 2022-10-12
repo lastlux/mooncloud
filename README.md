@@ -1,41 +1,39 @@
-# mooncloud
+# MoonCloud - Ghost Client for Minecraft
 
 ![image](https://user-images.githubusercontent.com/89749931/195244330-93f6f744-b383-4a11-bee8-67e106449053.png)
 
-- Ghost Client for Minecraft
-
--- **Compatibility**: *LunarClient*
+• **Tested Clients**: *LunarClient*
 
 - Cheap Options:
 
 > Main
 
--- AutoClicker for Left Click
+• AutoClicker for Left Click
 
--- AutoClicker for Right Click
+• AutoClicker for Right Click
 
--- Minecraft Only
+• Minecraft Only
 
--- Inventory Works
+• Inventory Works
 
--- RMB Lock
+• RMB Lock
 
 > Destruct
 
--- Automatic string clean
+• Automatic string clean
 
--- Auto Delete Archive (if close app)
+• Auto Delete Archive (if close app)
 
 > General Logs
 
--- better menu
+• better menu
 
--- other things...
+• other things...
 
 - About erros:
 
--- If you can't open loader make sure have it installed: https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170
+ • If you can't open loader make sure have it installed: https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170
  
- - Support / Discord
+ • Support / Discord
 
--- Discord: https://discord.gg/featureswin/
+- Discord: https://discord.gg/featureswin/

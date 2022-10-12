@@ -4,6 +4,7 @@
 
 • **Tested Clients**: *LunarClient*
 
+
 > Modules:
 
 - Main
@@ -23,6 +24,7 @@
  • Automatic string clean
 
  • Auto Delete Archive (if close app)
+
 
 - About erros:
 

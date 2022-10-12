@@ -29,9 +29,8 @@
  • If you can't open loader make sure have it installed: https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170
  
 - Support / Discord
- 
+
  • For buy join in discord server and open ticket
- 
  • Price: R$ 60 LifeTime
  
 - Discord: https://discord.gg/featureswin/

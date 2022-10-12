@@ -4,7 +4,7 @@
 
 • **Tested Clients**: *LunarClient*
 
-> Cheap Options:
+> Modules:
 
 - Main
 

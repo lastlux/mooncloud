@@ -18,6 +18,14 @@
  • Inventory Works
 
  • RMB Lock
+ 
+ | Reach
+ 
+   • Modify reach distance.
+   
+ | Velocity (Comming soon in development)
+ 
+   • Modify player knockback
 
 - Destruct
 

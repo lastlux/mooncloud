@@ -36,7 +36,7 @@
  
 - Support / Discord
  
- • For buy join in discord and open ticket!
+ • For buy join in discord server and open ticket
  • Price: R$ 60 LifeTime
  
 - Discord: https://discord.gg/featureswin/

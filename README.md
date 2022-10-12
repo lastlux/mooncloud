@@ -4,9 +4,9 @@
 
 • **Tested Clients**: *LunarClient*
 
-- Cheap Options:
+> Cheap Options:
 
-> Main
+- Main
 
  • AutoClicker for Left Click
 
@@ -18,7 +18,7 @@
 
  • RMB Lock
 
-> Destruct
+- Destruct
 
  • Automatic string clean
 

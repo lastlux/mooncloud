@@ -23,7 +23,7 @@
  
    • Modify reach distance.
    
- | Velocity (Comming soon in development)
+ | Velocity (Coming soon in development)
  
    • Modify player knockback
 

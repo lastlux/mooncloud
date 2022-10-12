@@ -8,32 +8,35 @@
 
 > Main
 
-• AutoClicker for Left Click
+ • AutoClicker for Left Click
 
-• AutoClicker for Right Click
+ • AutoClicker for Right Click
 
-• Minecraft Only
+ • Minecraft Only
 
-• Inventory Works
+ • Inventory Works
 
-• RMB Lock
+ • RMB Lock
 
 > Destruct
 
-• Automatic string clean
+ • Automatic string clean
 
-• Auto Delete Archive (if close app)
+ • Auto Delete Archive (if close app)
 
 > General Logs
 
-• better menu
+ • better menu
 
-• other things...
+ • other things...
 
 - About erros:
 
  • If you can't open loader make sure have it installed: https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170
  
- • Support / Discord
-
+- Support / Discord
+ 
+ • For buy join in discord and open ticket!
+ • Price: R$ 60 LifeTime
+ 
 - Discord: https://discord.gg/featureswin/
